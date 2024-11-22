@@ -42,11 +42,11 @@ pip install -r requirements.txt
 
 1. Clone the repo
    ```sh
-    https://github.com/Hiral25p/Group-09-LY-Proj
+    https://github.com/riyahemani/AML_MiniProject
    ```
 2. Change your working directory to the project folder:
    ```sh
-   cd Group-09-LY-Proj
+   cd AML_MiniProject
    ```
    _Ensure that you have the required packages installed (see the "Requirements" section)._
 3. Run the program:
